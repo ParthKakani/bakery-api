@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+.venv/
+env/
+
+# Flask instance / local database
+instance/
+*.db
+*.sqlite3
+
+# User-uploaded files (keep the folder, ignore contents)
+static/uploads/*
+!static/uploads/.gitkeep
+
+# Env / secrets
+.env
+*.env
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
