@@ -8,6 +8,7 @@ reviews — all documented with an interactive Swagger UI and packaged to run in
 A lightweight shop front-end and an admin page are included so the API can be
 demoed in the browser without any extra setup.
 
+![Shop UI](docs/shop.png)
 ---
 
 ## Features
